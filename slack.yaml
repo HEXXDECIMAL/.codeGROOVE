@@ -3,17 +3,6 @@ global:
     email_domain: codegroove.dev
 
 channels:
-    goose:
-      mute: true
-
-    all-codegroove:
+    tstromberg:
       repos:
         - "*"
-
-    social:
-      repos:
-        - goose
-        - sprinkler
-        - slacker
-
-
