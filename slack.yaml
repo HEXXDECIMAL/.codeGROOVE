@@ -3,6 +3,6 @@ global:
     email_domain: codegroove.dev
 
 channels:
-    tstromberg:
+    HEXX:
       repos:
         - "*"
